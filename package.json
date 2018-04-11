@@ -20,7 +20,7 @@
   "devDependencies": {
     "airtap": "0.0.2",
     "bowser": "^1.9.2",
-    "browserify": "^16.1.0",
+    "browserify": "16.1.1",
     "electron-webrtc": "^0.3.0",
     "prettier-bytes": "^1.0.3",
     "simple-get": "^2.0.0",
